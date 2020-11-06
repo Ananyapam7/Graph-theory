@@ -27,7 +27,7 @@ def main():
     for state in states:
         colors_of_states[state] = get_color_for_state(state)
 
-    print colors_of_states
+    print (colors_of_states)
 
 
 main()
